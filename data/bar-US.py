@@ -4,7 +4,7 @@ hfont = { 'fontname': 'Rockwell'}
 
 sports = ["Luge", "Bobsleigh", "Curling", "Ice Hockey", "Skating", "Skiing"]
 
-medals = [5, 15, 5, 20, 42, 20]
+medals = [9, 33, 5, 148, 98, 76]
 
 
 plt.bar(sports, medals, color = "#62529B")
